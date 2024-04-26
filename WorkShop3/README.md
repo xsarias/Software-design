@@ -1,6 +1,6 @@
 # Workshop 3 - Solution
 
-This is a workshop related with a backend system to provide a vehicles catalog using python and patterns design lie structural patterns.
+This is a workshop related with a backend system to provide a vehicles catalog using python and patterns design liKe structural patterns.
 
 ## Requirements
 
