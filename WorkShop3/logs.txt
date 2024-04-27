@@ -1,7 +1,3 @@
-
-Name user:'XOMIddTAo', Password:'43dd14', Type:'adddmin'
-Name user:'XOMIddTAssso', Password:'43dd14', Type:'adddmin'
-Name user:'XOMssIddTAo', Password:'43dd14', Type:'adddmin'
 Name user:'ee', Password:'e', Type:'user'
 Name user:'chomara', Password:'33', Type:'admin'
 Name user:'sofia', Password:'34', Type:'admin'
