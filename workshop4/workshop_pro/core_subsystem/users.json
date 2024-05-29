@@ -1,0 +1,27 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "grants": true
+    },
+    {
+        "username": "user",
+        "password": "user",
+        "grants": true
+    },
+    {
+        "username": "pollo",
+        "password": "broaster",
+        "grants": false
+    },
+    {
+        "username": "ud",
+        "password": "ud",
+        "grants": true
+    },
+    {
+        "username": "pollo",
+        "password": "asado",
+        "grants": false
+    }
+]
