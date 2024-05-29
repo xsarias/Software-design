@@ -1,4 +1,4 @@
-# Workshop 3 - Solution
+# Workshop 4
 
 This is a workshop related with a backend system to provide a vehicles catalog using python and patterns design.
 
@@ -32,7 +32,10 @@ the users would like to search by price range.
 update, and delete vehicles, while Users could only see and search the vehicles.
 - You should log all the actions made by the users, so you could track both the changes
 made in the vehicles and searches performed
-
+- You should add tests for all sub-system.
+- the last three searches made in the system shloud be saved into memory just to avoid make the same search again.
+- provide an option to recovery the last vehicle deleted.
+- Implement a set of validations for the vehicles created.
 
 ## Business Rules
 
@@ -40,3 +43,8 @@ made in the vehicles and searches performed
 - Gas consumption is based on engine information...
 - Gas consumption is based on next equation. 
   `1.1 ∗ engine.potency + 0.2 ∗ engine.weight - (0.3 if A or 0.5 if B)`
+- The newsletter should be sent by the admin anytime he/she wants, just with the information with the last five vehicles created (if there are less than five, just sent the complete catalog).
+- A vehicle should have a valid model name (less than 30 characters, and just numbers and letters),
+- a valid year (between 1990 and 2025)
+- a valid price (between 20000000 COP and 500000000 COP), and a valid chassis (A or B)
+
